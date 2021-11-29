@@ -1,11 +1,13 @@
 # Hj Construction and Logistic Service Financial Analysis
 
 
-I received Auditing department please help us assess the
+I received data from Auditing department telling me to please help them Analyse the
 financial statement of Hj Construction and Logistic Service.
 
-I have been supplied with two vectors of data: monthly revenue and monthly
-expenses for the year of 2021. My task is to calculate the following
+I have been supplied with two vectors of data: 
+Monthly revenue and monthly expenses for the year of 2021. 
+
+My task is to calculate the following
 financial metrics:
 
 * profit for each month
