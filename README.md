@@ -1,7 +1,7 @@
 # Hj Construction and Logistic Service Financial Analysis
 
 
-#I received Auditing department please help us assess the
+I received Auditing department please help us assess the
 financial statement of Hj Construction and Logistic Service.
 
 I have been supplied with two vectors of data: monthly revenue and monthly
