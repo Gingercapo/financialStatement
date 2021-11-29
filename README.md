@@ -18,3 +18,7 @@ financial metrics:
 * the best month - where the profit after tax was max for the year
 * the worst month - where the profit after tax was min for the year.
 
+
+Note: My colleague has warned me that it is okay if tax for any given month to be
+negative (in accounting terms, negative tax translates into a deferred tax asset).
+
