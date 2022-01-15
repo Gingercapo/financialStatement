@@ -1,8 +1,8 @@
-# Hj Construction and Logistic Service Financial Analysis
+# Logistic Service Financial Analysis
 
 
 I received data from Auditing department telling me to please help them Analyse the
-financial statement of Hj Construction and Logistic Service.
+financial statement of Logistic Service.
 
 I have been supplied with two vectors of data: 
 Monthly revenue and monthly expenses for the year of 2021. 
